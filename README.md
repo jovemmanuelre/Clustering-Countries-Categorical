@@ -1,1 +1,2 @@
 # Clustering-Countries-Categorical
+I clustered the countries into 7 categories based on their continents. The names of the continents are categorical data, so I mapped them into numerical data to show their clusters on a graph.
